@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(200, 219, 225);
+}
+.main {
+    text-align:center;   
+}
+.WT {
+    color:#106c0cb3;
+    font-size:50px;
+    font-weight:bold;
+}
+#explaination {
+    font-style:bold;
+    font-size:20px;
+}
